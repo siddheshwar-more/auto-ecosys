@@ -6,7 +6,7 @@ On the corner is a banker with a motorcar = The little children laugh at him beh
 And the banker never wears a mack = In the pouring rain, very strange
 
 
-process.env.AUTO_ECOSYS_WEBAPP = http://localhost:8080/auto-ecosys-web/api
+process.env.AUTO_ECOSYS_WEBAPP = http://PennyLane:8080/auto-ecosys-web/api
 
 
 Penny Lane is in my ears and in my e = esThere beneath the blue suburban skies
